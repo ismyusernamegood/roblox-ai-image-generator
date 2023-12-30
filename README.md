@@ -3,6 +3,7 @@ woah
 
 <img src="https://cdn.discordapp.com/attachments/1105908793583345705/1190759505290604615/image.png" alt="welp" width="400" height="300">
 
+uses code from https://github.com/DamjanovPodrum/rbx-py-screen-render
 
 how to set up
 
