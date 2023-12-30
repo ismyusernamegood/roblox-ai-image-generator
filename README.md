@@ -1,7 +1,8 @@
 # ai image generator in roblox!??!?
 woah
 
-[![1](https://cdn.discordapp.com/attachments/1105908793583345705/1190759505290604615/image.png?ex=65a2f835&is=65908335&hm=706324bd08267a9d6e81010bcbacb6794372cd15ca5bae2a428025e2950f98bd&)
+<img src="https://cdn.discordapp.com/attachments/1105908793583345705/1190759505290604615/image.png" alt="welp" width="400" height="300">
+
 
 how to set up
 
