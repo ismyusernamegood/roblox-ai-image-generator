@@ -43,7 +43,6 @@ class HTTP(BaseHTTPRequestHandler):
                 self.send_response(200)
                 self.send_header("Content-type", "text/html")
                 self.end_headers()
-                self.wfile.write(f"image saved at: {file_path}".encode('utf-8'))
             except Exception as e:
                 self.send_response(500)
                 self.send_header("Content-type", "text/html")
@@ -67,7 +66,7 @@ def generate_ai_image(prompt):
     file_path = os.path.join(root, file_name)
 
     image.save(file_path)
-    print(f"AI Image saved at: {file_path}")
+    print(f"saved at: {file_path}")
     return image, file_path
 
 def create_hash(prompt):
