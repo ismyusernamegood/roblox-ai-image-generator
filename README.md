@@ -11,6 +11,6 @@ create a place in roblox studio and enable http requests or whatever its called 
 
 open the server.py file and edit the ip and port
 
-insert screen.rbxm into the game and the lua script into workspace
+insert screen.rbxm into workspace and insert the lua file into serverscriptservice
 
 edit the ip and port in the lua file and ur all set!!!
