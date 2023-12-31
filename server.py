@@ -8,8 +8,8 @@ import os
 
 # use float32 for faster rendering and float16 to save resources which is obviously slower
 
-HOST = "192.168.1.15"
-PORT = 6891
+HOST = "localhost"
+PORT = 6969
 
 class HTTP(BaseHTTPRequestHandler):
     def do_GET(self):
