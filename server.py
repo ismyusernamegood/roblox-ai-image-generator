@@ -8,8 +8,8 @@ import os
 
 # use float32 for faster rendering and float16 to save resources which is obviously slower
 
-HOST = "localhost"
-PORT = 6969
+HOST = "192.168.1.15"
+PORT = 6891
 
 class HTTP(BaseHTTPRequestHandler):
     def do_GET(self):
@@ -39,7 +39,7 @@ class HTTP(BaseHTTPRequestHandler):
 
         if prompt:
             try:
-                ai_image, file_path = generate_ai_image(prompt)
+                _, file_path = generate_ai_image(prompt)
                 self.send_response(200)
                 self.send_header("Content-type", "text/html")
                 self.end_headers()
