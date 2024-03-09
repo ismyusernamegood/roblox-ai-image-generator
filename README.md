@@ -1,7 +1,7 @@
 # ai image generator in roblox!??!?
 woah
 
-<img src="https://cdn.discordapp.com/attachments/1105908793583345705/1190759505290604615/image.png" alt="welp" width="400" height="300">
+<img src="https://cdn.discordapp.com/attachments/1105908793583345705/1190759505290604615/image.png?ex=65f606b5&is=65e391b5&hm=175051af5d5ddb415dd52d3f50eb0e0ac91e75f3e64b05222291f15935a19d0b&" alt="welp" width="400" height="300">
 
 uses code from https://github.com/hashbmo/rbx-py-screen-render
 
