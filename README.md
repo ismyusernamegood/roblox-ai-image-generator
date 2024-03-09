@@ -15,4 +15,4 @@ insert screen.rbxm into workspace and insert the lua file into serverscriptservi
 
 edit the ip and port in the lua file and ur all set!!!
 
-(made in pytorch and uses dall e min)
+(uses in pytorch and dall e min)
