@@ -17,4 +17,4 @@ edit the ip and port in the lua file
 
 run the server.py file and ur all set!!!
 
-(uses in pytorch and dall e min)
+(uses pytorch and dall e min)
