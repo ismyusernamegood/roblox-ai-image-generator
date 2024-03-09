@@ -13,6 +13,8 @@ open the server.py file and edit the ip and port
 
 insert screen.rbxm into workspace and insert the lua file into serverscriptservice
 
-edit the ip and port in the lua file and ur all set!!!
+edit the ip and port in the lua file
+
+run the server.py file and ur all set!!!
 
 (uses in pytorch and dall e min)
